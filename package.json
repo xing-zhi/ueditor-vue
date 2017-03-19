@@ -10,11 +10,18 @@
     "type": "git",
     "url": "git+https://github.com/xing-zhi/ueditor-vue.git"
   },
-  "keywords": ["ueditor", "vue"],
+  "keywords": [
+    "ueditor",
+    "vue"
+  ],
   "author": "",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/xing-zhi/ueditor-vue/issues"
   },
-  "homepage": "https://github.com/xing-zhi/ueditor-vue#readme"
+  "homepage": "https://github.com/xing-zhi/ueditor-vue#readme",
+  "dependencies": {
+    "connect-busboy": "0.0.2",
+    "express": "^4.15.2"
+  }
 }
